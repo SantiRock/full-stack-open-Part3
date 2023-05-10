@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiRock/full-stack-open-Part3.git"
+  },
+  "author": "Santiago Quintero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiRock/full-stack-open-Part3/issues"
+  },
+  "homepage": "https://santirock.github.io/full-stack-open-Part3",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
